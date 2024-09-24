@@ -1,5 +1,5 @@
 import "./Hero.css";
-
+import WebDev from './WebDev.jpg'
 function Hero() {
   return (
     <section id="home" className="section visible">
@@ -12,8 +12,7 @@ function Hero() {
           </p>
         </div>
         <div className="image-content">
-          
-          <img src="assets/WebDev.jpg" alt="Web Development" />
+          <img src={WebDev} alt="Web Development" />
         </div>
       </div>
     </section>

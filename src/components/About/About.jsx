@@ -1,4 +1,6 @@
 import "./About.css";
+import Connection from './Connection.jpg'
+
 function About() {
   return (
     <section id="about" className="section visible">
@@ -9,7 +11,7 @@ function About() {
       </p>
       <div className="about-grid">
         <div className="about-grid-item">
-          <img src="assets/Connection.jpg" alt="Connection" />
+          <img src={Connection} alt="Connection" />
           <p>
             Web development breaks geographical barriers, allowing businesses, institutions, 
             and individuals to reach a global audience easily.
