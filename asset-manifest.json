@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/ws101_react_landingpage/static/css/main.3291bbfe.css",
-    "main.js": "/ws101_react_landingpage/static/js/main.72d048ef.js",
+    "main.js": "/ws101_react_landingpage/static/js/main.69d53f88.js",
     "static/media/fa-solid-900.ttf": "/ws101_react_landingpage/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/ws101_react_landingpage/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/ws101_react_landingpage/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/ws101_react_landingpage/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/fa-regular-400.ttf": "/ws101_react_landingpage/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/Info.jpg": "/ws101_react_landingpage/static/media/Info.c5b63a2b2975e37e2617.jpg",
     "static/media/WebDev.jpg": "/ws101_react_landingpage/static/media/WebDev.ca8122675f22c9a93847.jpg",
+    "static/media/DevTools.jpeg": "/ws101_react_landingpage/static/media/DevTools.eb657b2ffe5a22d7403f.jpeg",
+    "static/media/Github.png": "/ws101_react_landingpage/static/media/Github.60999e96c40e5bbf47cd.png",
     "static/media/Connection.jpg": "/ws101_react_landingpage/static/media/Connection.a098e99eb5965e5eb6c0.jpg",
+    "static/media/Bootstrap.png": "/ws101_react_landingpage/static/media/Bootstrap.84c383bc1fe3f85b9660.png",
     "static/media/fa-regular-400.woff2": "/ws101_react_landingpage/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/Idea.png": "/ws101_react_landingpage/static/media/Idea.f6048d34f5d4423b34af.png",
+    "static/media/Job.jpeg": "/ws101_react_landingpage/static/media/Job.9be037fbd650099f556d.jpeg",
     "static/media/fa-v4compatibility.ttf": "/ws101_react_landingpage/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/ws101_react_landingpage/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/ws101_react_landingpage/index.html",
     "main.3291bbfe.css.map": "/ws101_react_landingpage/static/css/main.3291bbfe.css.map",
-    "main.72d048ef.js.map": "/ws101_react_landingpage/static/js/main.72d048ef.js.map"
+    "main.69d53f88.js.map": "/ws101_react_landingpage/static/js/main.69d53f88.js.map"
   },
   "entrypoints": [
     "static/css/main.3291bbfe.css",
-    "static/js/main.72d048ef.js"
+    "static/js/main.69d53f88.js"
   ]
 }
