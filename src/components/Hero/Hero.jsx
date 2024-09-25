@@ -10,9 +10,9 @@ function Hero() {
             Web development involves creating and maintaining websites, web applications,
             and other online platforms using various programming languages, frameworks, and tools.
           </p>
-        </div>
-        <div className="image-content">
-          <img src={WebDev} alt="Web Development" />
+          <div className="image-content">
+            <img src={WebDev} alt="Web Development" />
+          </div>
         </div>
       </div>
     </section>

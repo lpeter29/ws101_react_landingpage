@@ -24,15 +24,14 @@ margin-right: 20px; /* Add some spacing between text and image */
 }
 
 .image-content {
-flex: 1; /* Allow the image to take up remaining space */
-display: flex;
-justify-content: flex-end; /* Align image to the right */
+padding-top: 10px;
 }
+
 
 .image-content img {
     max-width: 100%; 
     border-radius: 8px;
-    height: 100%;
+    height: 50%;
 }
 
 .hero-content h1 {
