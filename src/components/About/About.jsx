@@ -1,5 +1,10 @@
 import "./About.css";
 import Connection from './Connection.jpg'
+import Info from './Info.jpg'
+import Idea from './Idea.png'
+import Job from './Job.jpeg'
+
+
 
 function About() {
   return (
@@ -18,21 +23,21 @@ function About() {
           </p>
         </div>
         <div className="about-grid-item">
-          <img src="assets/Info.jpg" alt="Information" />
+          <img src={Info} alt="Information" />
           <p>
             Websites are crucial for spreading information quickly and efficiently, making news, updates, 
             and educational content accessible worldwide.
           </p>
         </div>
         <div className="about-grid-item">
-          <img src="assets/Idea.png" alt="Idea" />
+          <img src={Idea} alt="Idea" />
           <p>
             Web development encourages innovation, allowing creatives to conceptualize and 
             implement unique ideas in the digital space.
           </p>
         </div>
         <div className="about-grid-item">
-          <img src="assets/Job.jpeg" alt="Job" />
+          <img src={Job} alt="Job" />
           <p>
             The field of web development offers vast career opportunities and a high demand for 
             skilled professionals, creating significant job prospects in the IT sector.
