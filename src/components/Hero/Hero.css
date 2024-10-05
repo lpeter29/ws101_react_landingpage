@@ -48,3 +48,19 @@ color: #555;
 padding: 10px 15px;
 margin: 0;
 }
+
+@media (max-width: 768px) {
+    .logo {
+        margin-bottom: 10px;
+    }
+
+    .hero-content h1 {
+        font-size: 28px;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+        padding: 0 10px; 
+    }
+
+}
