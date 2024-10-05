@@ -1,52 +1,49 @@
 .section {
-padding: 10px;
-opacity: 0;
-transition: opacity 0.5s ease-in-out;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
 }
 
 .section.visible {
-opacity: 1;
+    opacity: 1;
 }
   
 .hero-content {
-    padding-top: 10%;
-    display: flex; /* Layout children (text and image) side by side */
+    display: flex; 
     justify-content: space-between; /* Space between text and image */
     align-items: center; /* Center items vertically */
     width: 100%; /* Take full width */
-    max-width: 1200px; /* Add a max-width for better layout control */
+    max-width: 1000px; 
     margin: 0 auto; /* Center the content horizontally */
 }
 
 .text-content {
-flex: 1; /* Allow the text to take up remaining space */
-margin-right: 20px; /* Add some spacing between text and image */
+    flex: 1; 
+    margin: auto; 
 }
-
-.image-content {
-padding-top: 10px;
-}
-
 
 .image-content img {
-    max-width: 100%; 
+    max-width: 80%; 
     border-radius: 8px;
     height: 50%;
+    padding-top: 20px;
+    display: block; /* Ensures the image is treated as a block element */
+    margin: 0 auto; 
 }
 
 .hero-content h1 {
-font-size: 60px;
-padding-bottom: 25px;
-color: #333;
+    font-size: 50px;
+    padding-bottom: 25px;
+    color: #333;
 }
 
 .hero-content p {
-font-size: 20px;
-background-color: #f4ad49;
-border-radius: 20px;
-color: #555;
-padding: 10px 15px;
-margin: 0;
+    font-size: 20px;
+    background-color: #f4ad49;
+    border-radius: 20px;
+    color: #555;
+    padding: 10px 15px;
+    margin: 0;
 }
 
 @media (max-width: 768px) {
@@ -60,7 +57,6 @@ margin: 0;
 
     .hero-content p {
         font-size: 16px;
-        padding: 0 10px; 
+        padding: 10 10px; 
     }
-
 }
